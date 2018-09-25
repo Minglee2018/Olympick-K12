@@ -1,0 +1,22 @@
+﻿  PowerUp.h
+  main.cpp
+src\main.cpp(92): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(114): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+AId_2013.lib(AI.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+AId_2013.lib(Game.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+AId_2013.lib(Helper.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+AId_2013.lib(easywsclient.obj) : error LNK2038: mismatch detected for '_MSC_VER': value '1800' doesn't match value '1900' in main.obj
+libucrtd.lib(hypot.obj) : error LNK2005: _hypot already defined in AId_2013.lib(AI.obj)
+AId_2013.lib(AI.obj) : error LNK2019: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z) referenced in function "public: virtual class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > __thiscall std::_System_error_category::message(int)const " (?message@_System_error_category@std@@UBE?AV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@2@H@Z)
+AId_2013.lib(Game.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+AId_2013.lib(Helper.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+AId_2013.lib(easywsclient.obj) : error LNK2001: unresolved external symbol "char const * __cdecl std::_Winerror_map(int)" (?_Winerror_map@std@@YAPBDH@Z)
+AId_2013.lib(Game.obj) : error LNK2019: unresolved external symbol "public: __thiscall std::exception::exception(char const * const &)" (??0exception@std@@QAE@ABQBD@Z) referenced in function "public: __thiscall std::runtime_error::runtime_error(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (??0runtime_error@std@@QAE@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@1@@Z)
+AId_2013.lib(Game.obj) : error LNK2019: unresolved external symbol "public: __thiscall std::bad_cast::bad_cast(char const *)" (??0bad_cast@std@@QAE@PBD@Z) referenced in function "class std::ctype<char> const & __cdecl std::use_facet<class std::ctype<char> >(class std::locale const &)" (??$use_facet@V?$ctype@D@std@@@std@@YAABV?$ctype@D@0@ABVlocale@0@@Z)
+AId_2013.lib(Game.obj) : error LNK2019: unresolved external symbol "void * __cdecl operator new(unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??2@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) referenced in function "protected: __thiscall std::basic_streambuf<char,struct std::char_traits<char> >::basic_streambuf<char,struct std::char_traits<char> >(void)" (??0?$basic_streambuf@DU?$char_traits@D@std@@@std@@IAE@XZ)
+AId_2013.lib(Game.obj) : error LNK2019: unresolved external symbol "void * __cdecl operator new[](unsigned int,struct std::_DebugHeapTag_t const &,char *,int)" (??_U@YAPAXIABU_DebugHeapTag_t@std@@PADH@Z) referenced in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPADPBDPADABU_Cvtvec@@@Z)
+AId_2013.lib(Game.obj) : error LNK2019: unresolved external symbol "struct std::_DebugHeapTag_t const & __cdecl std::_DebugHeapTag_func(void)" (?_DebugHeapTag_func@std@@YAABU_DebugHeapTag_t@1@XZ) referenced in function "char * __cdecl std::_Maklocstr<char>(char const *,char *,struct _Cvtvec const &)" (??$_Maklocstr@D@std@@YAPADPBDPADABU_Cvtvec@@@Z)
+AId_2013.lib(easywsclient.obj) : error LNK2019: unresolved external symbol ___iob_func referenced in function "public: virtual void __thiscall `anonymous namespace'::_RealWebSocket::_dispatchBinary(struct easywsclient::BytesCallback_Imp &)" (?_dispatchBinary@_RealWebSocket@?A0xe06b4e62@@UAEXAAUBytesCallback_Imp@easywsclient@@@Z)
+AId_2013.lib(easywsclient.obj) : error LNK2019: unresolved external symbol _sscanf referenced in function "class easywsclient::WebSocket * __cdecl `anonymous namespace'::from_url(class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &,bool,class std::basic_string<char,struct std::char_traits<char>,class std::allocator<char> > const &)" (?from_url@?A0xe06b4e62@@YAPAVWebSocket@easywsclient@@ABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@_N0@Z)
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\2013_Debug\AI_Template.exe : fatal error LNK1120: 8 unresolved externals

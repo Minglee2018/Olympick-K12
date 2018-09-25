@@ -1,0 +1,7 @@
+﻿  main.cpp
+src\main.cpp(151): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(185): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(186): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(245): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(267): warning C4018: '<': signed/unsigned mismatch
+  AI_Template.vcxproj -> G:\visual\Visual Studio 2012\Projects\Pack\Bots\C\C\2015_Debug\AI_Template.exe

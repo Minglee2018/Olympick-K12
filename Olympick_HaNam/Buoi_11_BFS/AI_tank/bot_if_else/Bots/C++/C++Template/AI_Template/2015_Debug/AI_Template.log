@@ -1,0 +1,9 @@
+﻿  main.cpp
+src\main.cpp(37): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(56): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(77): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\main.cpp(78): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\main.cpp(178): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+src\main.cpp(179): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  AI_Template.vcxproj -> C:\Users\Administrator\Desktop\AI_tank\Bots\C++\C++Template\2015_Debug\AI_Template.exe
+  AI_Template.vcxproj -> C:\Users\Administrator\Desktop\AI_tank\Bots\C++\C++Template\2015_Debug\AI_Template.pdb (Full PDB)

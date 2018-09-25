@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1518899088 source:d:\c++\de_baitap_lop_tiemnang_olympick\tuan3_codeforces\new folder\perfect_squase_playertop1\main.cpp
+	<iostream>
+	<algorithm>
+	<cmath>
+

@@ -1,0 +1,95 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AI_Template", "AI_Template\AI_Template.vcxproj", "{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "test", "test\test.csproj", "{FC420190-8A1C-454C-9270-7C1443DCA899}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		2012_Debug|Any CPU = 2012_Debug|Any CPU
+		2012_Debug|Win32 = 2012_Debug|Win32
+		2012_Release|Any CPU = 2012_Release|Any CPU
+		2012_Release|Win32 = 2012_Release|Win32
+		2013_Debug|Any CPU = 2013_Debug|Any CPU
+		2013_Debug|Win32 = 2013_Debug|Win32
+		2013_Release|Any CPU = 2013_Release|Any CPU
+		2013_Release|Win32 = 2013_Release|Win32
+		2015_Debug|Any CPU = 2015_Debug|Any CPU
+		2015_Debug|Win32 = 2015_Debug|Win32
+		2015_Release|Any CPU = 2015_Release|Any CPU
+		2015_Release|Win32 = 2015_Release|Win32
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Win32 = Debug|Win32
+		Release|Any CPU = Release|Any CPU
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Debug|Any CPU.ActiveCfg = 2012_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Debug|Win32.ActiveCfg = 2012_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Debug|Win32.Build.0 = 2012_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Release|Any CPU.ActiveCfg = 2012_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Release|Win32.ActiveCfg = 2012_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2012_Release|Win32.Build.0 = 2012_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Debug|Any CPU.ActiveCfg = 2013_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Debug|Win32.ActiveCfg = 2013_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Debug|Win32.Build.0 = 2013_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Release|Any CPU.ActiveCfg = 2013_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Release|Win32.ActiveCfg = 2013_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2013_Release|Win32.Build.0 = 2013_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Debug|Any CPU.ActiveCfg = 2015_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Debug|Win32.ActiveCfg = 2015_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Debug|Win32.Build.0 = 2015_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Release|Any CPU.ActiveCfg = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Release|Win32.ActiveCfg = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.2015_Release|Win32.Build.0 = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Debug|Any CPU.ActiveCfg = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Debug|Any CPU.Build.0 = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Debug|Win32.ActiveCfg = 2015_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Debug|Win32.Build.0 = 2015_Debug|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Release|Any CPU.ActiveCfg = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Release|Any CPU.Build.0 = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Release|Win32.ActiveCfg = 2015_Release|Win32
+		{C5ECF5E5-3E73-4D41-917C-8557CC6449C9}.Release|Win32.Build.0 = 2015_Release|Win32
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Debug|Win32.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Release|Any CPU.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Release|Win32.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2012_Release|Win32.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Debug|Win32.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Release|Any CPU.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Release|Win32.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2013_Release|Win32.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Debug|Win32.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Release|Any CPU.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Release|Win32.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.2015_Release|Win32.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Debug|Win32.ActiveCfg = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Debug|Win32.Build.0 = Debug|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Release|Win32.ActiveCfg = Release|Any CPU
+		{FC420190-8A1C-454C-9270-7C1443DCA899}.Release|Win32.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {821036A6-C5D8-48A1-869D-27C72D61877B}
+	EndGlobalSection
+EndGlobal

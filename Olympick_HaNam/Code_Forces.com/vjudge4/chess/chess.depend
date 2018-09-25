@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1519362192 source:d:\c++\de_baitap_lop_tiemnang_olympick\tuan4_codeforces\vjudge4\chess\main.cpp
+	<iostream>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<algorithm>
+

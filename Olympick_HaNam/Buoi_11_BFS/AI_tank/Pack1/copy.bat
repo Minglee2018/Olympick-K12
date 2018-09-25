@@ -1,0 +1,1 @@
+xcopy /y "C:\Users\Administrator\Desktop\AI_tank\bot\Bots\C++\C++Template\2015_Debug\AI_Template.exe" "C:\Users\Administrator\Desktop\AI_tank\Pack1\Arena\P1.exe"

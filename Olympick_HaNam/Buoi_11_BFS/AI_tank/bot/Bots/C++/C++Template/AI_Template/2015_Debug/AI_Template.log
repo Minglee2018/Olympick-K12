@@ -1,0 +1,13 @@
+﻿  main.cpp
+src\main.cpp(163): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(182): warning C4018: '<': signed/unsigned mismatch
+src\main.cpp(209): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(210): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(229): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(230): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(239): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(240): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(259): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+src\main.cpp(260): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  AI_Template.vcxproj -> C:\Users\Administrator\Desktop\AI_tank\bot\Bots\C++\C++Template\2015_Debug\AI_Template.exe
+  AI_Template.vcxproj -> C:\Users\Administrator\Desktop\AI_tank\bot\Bots\C++\C++Template\2015_Debug\AI_Template.pdb (Full PDB)

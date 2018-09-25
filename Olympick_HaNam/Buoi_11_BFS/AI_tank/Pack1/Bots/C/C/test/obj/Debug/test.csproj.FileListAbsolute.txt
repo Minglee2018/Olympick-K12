@@ -1,0 +1,7 @@
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\bin\Debug\test.exe.config
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\bin\Debug\test.exe
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\bin\Debug\test.pdb
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\obj\Debug\test.csproj.CoreCompileInputs.cache
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\obj\Debug\test.exe
+G:\visual\Visual Studio 2012\Projects\Pack\Bots\C++\C++Template\test\obj\Debug\test.pdb

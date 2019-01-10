@@ -1,8 +1,10 @@
 Thuật toán lazy update.
 đề bài: cho mảng n phần tử và q truy vấn. 
 truy vấn: 1 x y val  update từ x->y lên val giá trị
+
 truy vấn: 2 x y      in ra min trong đoạn x->y.
-https://github.com/Minglee2018/Olympick-K12/blob/master/Description_Lazyupdate.png
+
+
 Mô tả:/https://www.geeksforgeeks.org/lazy-propagation-in-segment-tree/
 Lazy Propagation in Segment Tree
 Segment tree is introduced in previous post with an example of range sum problem. We have used the same “Sum of given Range” problem to explain Lazy propagation
